@@ -1,6 +1,6 @@
 👋 Hi, I'm Yoel N. Fabelo González, a cuban 17 y.o. boy by the time I write, 29/9/2021.
 
-I began my tech journey trying to be a hacker but I started to like programming even more so I decided to download some books and study, and that was just the beginning.
+I began my tech journey trying to become a hacker but I started to like programming even more so I decided to download some books and study, and that was just the beginning.
 
 Now programming and computer science overall is my world.
 I'm always learning about different things related but not limited to tech.
