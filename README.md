@@ -9,3 +9,9 @@ I'm always learning about different things related but not limited to tech.
 If you're specially interested about anything around you can reach me at:
 - human.x7e6@gmail.com
 - https://t.me/user_x7e6
+
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=bash,cs,dart,flutter,java,linux,python" />
+    </a>
+</p>
