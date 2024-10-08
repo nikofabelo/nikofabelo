@@ -12,6 +12,6 @@ If you're specially interested about anything around you can reach me at:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dart,debian,docker,dotnet,flutter,git,githubactions,java,javascript,linux,py,selenium,typescript&perline=7" />
+    <img src="https://skillicons.dev/icons?i=azure,bash,bitbucket,c,cs,dart,debian,docker,dotnet,flutter,git,githubactions,java,javascript,linux,mysql,py,selenium&perline=6" />
   </a>
 </p>
